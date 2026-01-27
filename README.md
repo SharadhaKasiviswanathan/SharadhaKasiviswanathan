@@ -188,7 +188,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e7c66&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SharadhaKasiviswanathan&label=Profile%20Views&color=0e7c66&style=flat" alt="Profile Views" />
 </p>
 
 </details>
