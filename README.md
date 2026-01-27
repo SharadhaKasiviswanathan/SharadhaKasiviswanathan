@@ -33,23 +33,23 @@ I enjoy working on AI-powered applications that combine language models, thought
 <br>
 
 ### 🎓 Education
-- **MS in Computer Science** — Boise State University (Dec 2025)  
-- **BE in Computer Science and Engineering** — Anna University  
+- **MS in Computer Science** — Boise State University, Class of 2025 (December Graduation)  
+- **BE in Computer Science and Engineering** — Anna University, Class of 2021 (May Graduation)  
 
 ---
 
 ### 💼 Experience
 - **Graduate Teaching Assistant (Databases)** — Boise State University  
-- **Software Developer** — Cognizant Technology Solutions  
+- **Programmer Analyst** — Cognizant Technology Solutions  
 
 ---
 
 ### 🛠️ Technical Skills
-**Programming:** Python, SQL, JavaScript, TypeScript  
-**AI & Language:** LLMs, Prompt Engineering, RAG, Whisper, BERT  
-**Tools:** Git, Linux, JIRA, TensorFlow, PyTorch  
+**Programming and Web Technologies:** Python, SQL, HTML, CSS, JavaScript, TypeScript, React  
+**AI:** LLMs, NLP, RAG, Whisper, BERT  
+**Tools and Libraries:** Git, Linux, JIRA, TensorFlow, PyTorch  
 **Data & Cloud:** AWS (EMR, S3), PySpark, MySQL  
-
+**CRM:** Salesforce Admistration and Development
 ---
 
 ### 🔬 Projects
@@ -183,7 +183,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 <br>
 
-**Fun fact:** I attended three tech conferences in a single year to learn, network, and stay connected with the tech community.
+**Fun fact:** I attended three tech conferences in a single year to learn, network, and stay connected with the tech community 🍀 
 
 <br>
 
