@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sharadhakasiviswanathan.vercel.app">
-    <img src="images/name_img.png" alt="Sharadha" width="260" />
+    <img src="images/name_img.png" alt="Sharadha" />
   </a>
 </p>
 
