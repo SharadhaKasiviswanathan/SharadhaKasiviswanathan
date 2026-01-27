@@ -171,7 +171,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 <br>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/SharadhaKasiviswanathan?template=classic&activity=1&activity.filter=all&config.timezone=auto" />
+  <img src="https://metrics.lecoq.io/SharadhaKasiviswanathan?template=classic&activity=1&config.timezone=auto" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
