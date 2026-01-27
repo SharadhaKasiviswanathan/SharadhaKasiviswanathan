@@ -171,7 +171,11 @@ I enjoy working on AI-powered applications that combine language models, thought
 <br>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_GITHUB_USERNAME?template=classic&activity=1&activity.filter=all&config.timezone=auto" />
+  <img src="https://metrics.lecoq.io/SharadhaKasiviswanathan?template=classic&activity=1&activity.filter=all&config.timezone=auto" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SharadhaKasiviswanathan&label=Profile%20Views&color=0e7c66&style=flat" alt="Profile Views" />
 </p>
 
 </details>
@@ -186,9 +190,5 @@ I enjoy working on AI-powered applications that combine language models, thought
 **Fun fact:** I attended three tech conferences in a single year to learn, network, and stay connected with the tech community 🍀 
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SharadhaKasiviswanathan&label=Profile%20Views&color=0e7c66&style=flat" alt="Profile Views" />
-</p>
 
 </details>
