@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary><strong>👩‍💻 About <h2>Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2> </strong></summary>
+<summary><strong>👩‍💻 About<h2> Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2> </strong></summary>
 
 <br>
 
