@@ -130,8 +130,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 </details>
 
-
-
 <details>
 <summary><strong>🔗 Connect With Me</strong></summary>
 
