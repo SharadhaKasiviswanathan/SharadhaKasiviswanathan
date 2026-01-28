@@ -10,11 +10,7 @@
 
 <strong><h3> 👩🏻‍💻 Meet <mark>Sharadha Kasiviswanathan</mark> </h3></strong>
 
-<br>
-
 I enjoy working on AI-powered applications that combine language models, thoughtful system design, and real-world constraints. My interests include building accessible technology, improving reasoning quality in AI workflows, and translating ideas into reliable software.
-
-<br>
 
 🎯 Actively looking for **Full Time** opportunities: AI Engineer / Software Developer roles  
 📍 Boise, ID → Open to Relocate  
