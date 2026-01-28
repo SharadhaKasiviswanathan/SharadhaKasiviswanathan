@@ -8,7 +8,6 @@
 
 ---
 
-<details>
 <strong><h3> 👩🏻‍💻 Meet 𝒮𝒽𝒶𝓇𝒶𝒹𝒽𝒶 𝒦𝒶𝓈𝒾𝓋𝒾𝓈𝓌𝒶𝓃𝒶𝓉𝒽𝒶𝓃 </h3></strong>
 
 <br>
@@ -20,9 +19,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 🎯 **Actively looking for opportunities**
 - AI Engineer / Software Developer roles  
 - Boise, ID → Open to relocation  
-
-</details>
-
 
 <details>
 <summary>📋 𝗥𝗘́𝗦𝗨𝗠𝗘́ </summary>
