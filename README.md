@@ -54,8 +54,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 - **Engineered** a Python-based evaluation framework using LangChain and GPT-4 to automatically test and measure performance improvements across **1,000+ graph reasoning queries**
 - **Achieved** a **28% improvement** in task accuracy by optimizing node ordering, demonstrating that context organization significantly impacts LLM reasoning capabilities for structured data
 
-**Tech Stack:**
-
+**⚙️ Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -73,8 +72,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 - **Performed** centrality analysis (PageRank, betweenness) to identify **top 100 influential articles** and visualized network clusters representing distinct knowledge domains
 - **Delivered** an interactive visualization tool that reduced knowledge discovery time by **60%**, enabling researchers to quickly identify key articles and related topic clusters
 
-**Tech Stack:**
-
+**⚙️ Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -92,8 +90,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 - **Developed** a real-time transcription application with custom preprocessing pipelines that normalized audio quality and reduced background noise by **35 dB**
 - **Improved** transcription accuracy by **45%** for accented speech, making the system viable for inclusive educational and accessibility applications serving diverse user populations
 
-**Tech Stack:**
-
+**⚙️ Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -111,8 +108,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 - **Applied** NLP techniques (sentiment analysis, topic modeling with LDA) and classification algorithms to identify **8 distinct patterns** correlating issue characteristics with WONTFIX decisions
 - **Discovered** that **68%** of WONTFIX issues shared common traits (feature scope misalignment, resource constraints), providing actionable insights for contributors to improve issue quality and acceptance rates
 
-**Tech Stack:**
-
+**⚙️ Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
