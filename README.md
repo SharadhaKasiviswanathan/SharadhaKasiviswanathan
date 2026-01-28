@@ -25,7 +25,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 
 <details>
-<summary><strong>📋 Resume</strong></summary>
+<strong>📋 Resume</strong><summary></summary>
 
 <br>
 
