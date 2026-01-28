@@ -16,7 +16,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 <br>
 
-🎯 **Actively looking for Full Time opportunities:** AI Engineer / Software Developer roles  
+🎯 Actively looking for **Full Time** opportunities: AI Engineer / Software Developer roles  
 📍 Boise, ID → Open to Relocate  
 
 <details>
@@ -127,7 +127,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 </td>
 </tr>
 </table>
-
 </details>
 
 <details>
