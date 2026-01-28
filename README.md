@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary><strong><h2> 👩🏻‍💻 Meet <h2>Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2></strong></summary>
+<summary><strong><h2> 👩🏻‍💻 Meet Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2></strong></summary>
 
 <br>
 
