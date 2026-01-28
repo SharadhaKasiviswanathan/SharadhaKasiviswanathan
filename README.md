@@ -25,7 +25,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 
 <details>
-<summary>📋 𝗥𝗘́𝗦𝗨𝗠𝗘́ ▶</summary>
+<summary  style="list-style: none; display: inline;">📋 𝗥𝗘́𝗦𝗨𝗠𝗘́ ▶</summary>
 
 <br>
 
