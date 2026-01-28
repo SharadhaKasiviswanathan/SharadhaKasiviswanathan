@@ -8,11 +8,6 @@
 
 ---
 
-<details open>
-<summary>👩🏻‍💻 </summary>
-<strong>Meet <i>SHARADHA KASIVISWANATHAN</i></strong>
-</details>
-
 <details>
 <summary><strong><h3> 👩🏻‍💻 Meet <i>SHARADHA KASIVISWANATHAN</i></h3></strong></summary>
 
