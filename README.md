@@ -13,7 +13,7 @@
 
 <br>
 
-**AI Engineer building LLM-powered applications with a focus on accessibility, transforming curiosity into reliable real-world impact.**
+**SHARADHA KASIVISWANATHAN**
 
 I enjoy working on AI-powered applications that combine language models, thoughtful system design, and real-world constraints. My interests include building accessible technology, improving reasoning quality in AI workflows, and translating ideas into reliable software.
 
@@ -25,7 +25,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 </details>
 
----
 
 <details>
 <summary><strong>📋 Resume</strong></summary>
@@ -36,13 +35,13 @@ I enjoy working on AI-powered applications that combine language models, thought
 - **MS in Computer Science** — Boise State University, Class of 2025 (December Graduation)  
 - **BE in Computer Science and Engineering** — Anna University, Class of 2021 (May Graduation)  
 
----
+--
 
 ### 💼 Experience
 - **Graduate Teaching Assistant (Databases)** — Boise State University  
 - **Programmer Analyst** — Cognizant Technology Solutions  
 
----
+--
 
 ### 🛠️ Technical Skills
 **Programming and Web Technologies:** Python, SQL, HTML, CSS, JavaScript, TypeScript, React  
@@ -50,7 +49,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 **Tools and Libraries:** Git, Linux, JIRA, TensorFlow, PyTorch  
 **Data & Cloud:** AWS (EMR, S3), PySpark, MySQL  
 **CRM:** Salesforce Admistration and Development
----
+--
 
 ### 🔬 Projects
 
@@ -135,7 +134,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 </details>
 
----
+
 
 <details>
 <summary><strong>🔗 Connect With Me</strong></summary>
@@ -148,7 +147,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 </details>
 
----
 
 <details>
 <summary><strong>💻 Workspace</strong></summary>
@@ -163,7 +161,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 </details>
 
----
 
 <details>
 <summary><strong>📈 GitHub Activity</strong></summary>
@@ -180,7 +177,6 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 </details>
 
----
 
 <details>
 <summary><strong>💡 Fun Fact</strong></summary>
