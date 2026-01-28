@@ -157,13 +157,14 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 
 <details>
-<summary><strong>📈 GitHub Activity</strong></summary>
+<summary><strong>📈 GitHub Stats</strong></summary>
 
 <br>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/SharadhaKasiviswanathan?template=classic&activity=1&config.timezone=auto" alt="GitHub Metrics" />
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharadhaKasiviswanathan&layout=donut-vertical)](https://github.com/SharadhaKasiviswanathan/github-readme-stats)" alt="GitHub Metrics" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SharadhaKasiviswanathan&label=Profile%20Views&color=0e7c66&style=flat" alt="Profile Views" />
