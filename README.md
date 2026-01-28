@@ -9,11 +9,9 @@
 ---
 
 <details>
-<summary><strong>👩‍💻 About<h2> Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2> </strong></summary>
+<summary><strong>👩‍💻 About <h2>Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2> </strong></summary>
 
 <br>
-
-
 
 I enjoy working on AI-powered applications that combine language models, thoughtful system design, and real-world constraints. My interests include building accessible technology, improving reasoning quality in AI workflows, and translating ideas into reliable software.
 
