@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary><strong><h2> 👩🏻‍💻 Meet <i>Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</i></h2></strong></summary>
+<summary><strong><h3> 👩🏻‍💻 Meet <i>SHARADHA KASIVISWANATHAN</i></h3></strong></summary>
 
 <br>
 
