@@ -29,13 +29,15 @@ I enjoy working on AI-powered applications that combine language models, thought
 - **MS in Computer Science** — Boise State University, Class of 2025 (December Graduation)  
 - **BE in Computer Science and Engineering** — Anna University, Class of 2021 (May Graduation)  
 
---
+---
 
 ### 💼 Experience
 - **Graduate Teaching Assistant (Databases)** — Boise State University  
-- **Programmer Analyst** — Cognizant Technology Solutions  
+- **Programmer Analyst** — Cognizant Technology Solutions
+- **Web Development Intern** - The Sparks Foundation
+- **Academic Alliance Testing Team** - UiPath 
 
---
+---
 
 ### 🛠️ Technical Skills
 **Programming and Web Technologies:** Python, SQL, HTML, CSS, JavaScript, TypeScript, React  
@@ -43,7 +45,8 @@ I enjoy working on AI-powered applications that combine language models, thought
 **Tools and Libraries:** Git, Linux, JIRA, TensorFlow, PyTorch  
 **Data & Cloud:** AWS (EMR, S3), PySpark, MySQL  
 **CRM:** Salesforce Admistration and Development
---
+
+---
 
 ### 🔬 Projects
 
@@ -174,7 +177,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 
 <details>
-<summary><strong>💡 Fun Fact</strong></summary>
+<summary><strong>⚡ Fun Fact</strong></summary>
 
 <br>
 
