@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary><strong>👩‍💻 About <h2>Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2> </strong></summary>
+<summary><strong><h2> 👩🏻‍💻 Meet <h2>Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ</h2></strong></summary>
 
 <br>
 
@@ -25,7 +25,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 
 <details>
-<strong>📋 Resume</strong><summary></summary>
+<summary><strong>📋 Resume</strong></summary>
 
 <br>
 
