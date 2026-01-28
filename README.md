@@ -4,16 +4,16 @@
   </a>
 </p>
 
-<h3 align="center">AI Engineer | Software Developer</h3>
+<h3 align="center">AI Engineer | Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
 <details>
-<summary><strong>👩‍💻 About Me</strong></summary>
+<summary><strong>👩‍💻 About Sʜᴀʀᴀᴅʜᴀ  Kᴀsɪᴠɪsᴡᴀɴᴀᴛʜᴀɴ </strong></summary>
 
 <br>
 
-**SHARADHA KASIVISWANATHAN**
+
 
 I enjoy working on AI-powered applications that combine language models, thoughtful system design, and real-world constraints. My interests include building accessible technology, improving reasoning quality in AI workflows, and translating ideas into reliable software.
 
