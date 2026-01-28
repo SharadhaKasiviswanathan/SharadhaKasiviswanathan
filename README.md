@@ -178,7 +178,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 <br>
 
-**Fun fact:** I attended three tech conferences in a single year to learn, network, and stay connected with the tech community 🍀 
+**Fun fact:** I attended 3 tech conferences in 2025 to learn, network, and stay connected with the growing tech community 🍀 
 
 <br>
 
