@@ -21,7 +21,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 - Boise, ID → Open to relocation  
 
 <details>
-<summary><h4>📋 RESUME</h4> </summary>
+<summary>📋 RESUME </summary>
 
 <br>
 
