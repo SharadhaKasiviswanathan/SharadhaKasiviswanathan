@@ -20,9 +20,7 @@ I enjoy working on AI-powered applications that combine language models, thought
 📍 Boise, ID → Open to Relocate  
 
 <details>
-<summary><h4>📋 Resume</h4> </summary>
-
-<br>
+<summary><strong>📋 Resume</strong> </summary>
 
 ### 🎓 Education
 - **MS in Computer Science** — Boise State University, Class of 2025 (December Graduation)  
