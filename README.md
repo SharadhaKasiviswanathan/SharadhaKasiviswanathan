@@ -8,7 +8,7 @@
 
 ---
 
-<strong><h3> 👩🏻‍💻 𝐌𝐞𝐞𝐭 𝓢𝓱𝓪𝓻𝓪𝓭𝓱𝓪 𝓚𝓪𝓼𝓲𝓿𝓲𝓼𝔀𝓪𝓷𝓪𝓽𝓱𝓪𝓷 </h3></strong>
+<strong><h3> 👩🏻‍💻 Meet <mark>Sharadha Kasiviswanathan</mark> </h3></strong>
 
 <br>
 
