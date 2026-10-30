@@ -124,23 +124,8 @@ I enjoy working on AI-powered applications that combine language models, thought
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharadhakasiviswanathan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharadha-kasiviswanathan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharadha3099@gmail.com)
-
-</details>
-
-
-<details>
-<summary><strong>💻 Workspace</strong></summary>
-
-<br>
-
-- **Device:** MacBook (macOS)  
-- **Editor:** VS Code  
-- **Terminal:** zsh  
-- **Version Control:** Git & GitHub  
-- **Workflow:** Python-first development, prompt experimentation, data pipelines  
 
 </details>
 
